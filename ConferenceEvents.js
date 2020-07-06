@@ -9,3 +9,4 @@ export const BEFORE_HANGUP = 'conference.before_hangup';
  */
 export const DESKTOP_SHARING_ENABLED_CHANGED
     = 'conference.desktop_sharing_enabled_changed';
+eee
